@@ -105,3 +105,197 @@ http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65927
 http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50286
 #EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES- Fox Life FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.FoxLife.png" group-title="EU- ES  TDT",ES- Fox Life FHD
 http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50328
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="(ES) COCINA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/COCINA.png" group-title="EU- ES ZAPI",(ES) COCINA UHD/4K
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138826
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="(ES) DECASA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canaldecasa.png" group-title="EU- ES ZAPI",(ES) DECASA UHD/4K
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138831
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="(ES) ODISEA UHD/4K" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ODISEA.png" group-title="EU- ES ZAPI",(ES) ODISEA UHD/4K
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138866
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 7RM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/RM-7-TV.png" group-title="EU- ES ZAPI",ES (ZAP) 7RM
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138804
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 24H Informativos Cableworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZvUIwNIuNyDMDDDis7EASqQz7BmnBc52aw&s" group-title="EU- ES ZAPI",ES (ZAP) 24H Informativos Cableworld
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138802
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) 24H TVE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tve.png" group-title="EU- ES ZAPI",ES (ZAP) 24H TVE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138803
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AL AOULA INTERNACIONAL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/alaoulainterplusl.png" group-title="EU- ES ZAPI",ES (ZAP) AL AOULA INTERNACIONAL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138806
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES (ZAP) AMC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amc.png" group-title="EU- ES ZAPI",ES (ZAP) AMC
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138807
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AMC BREAK" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/amc.png" group-title="EU- ES ZAPI",ES (ZAP) AMC BREAK
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138808
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) AMC CRIME" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/skycrime.png" group-title="EU- ES ZAPI",ES (ZAP) AMC CRIME
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138809
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) A PUNT" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/puntlandtv.jpg" group-title="EU- ES ZAPI",ES (ZAP) A PUNT
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138805
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ARTE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/skyarte.png" group-title="EU- ES ZAPI",ES (ZAP) ARTE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138810
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ASPE TV" tvg-logo="https://www.cableworld.es/wp-content/uploads/2017/05/television-aspe.png" group-title="EU- ES ZAPI",ES (ZAP) ASPE TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138811
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES (ZAP) ATRESERIES" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/atreseries.png" group-title="EU- ES ZAPI",ES (ZAP) ATRESERIES
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138812
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES (ZAP) AXN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axnaction.png" group-title="EU- ES ZAPI",ES (ZAP) AXN
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138813
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES (ZAP) AXN WHITE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/axnwhite.png" group-title="EU- ES ZAPI",ES (ZAP) AXN WHITE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138814
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) BBC NEWS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bbcnewshd.png" group-title="EU- ES ZAPI",ES (ZAP) BBC NEWS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138815
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES (ZAP) BEMAD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bemad.png" group-title="EU- ES ZAPI",ES (ZAP) BEMAD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138816
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) Betis TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Betis_TV_ES_logo.png" group-title="EU- ES ZAPI",ES (ZAP) Betis TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138817
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES (ZAP) BOING" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/boing.png" group-title="EU- ES ZAPI",ES (ZAP) BOING
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138818
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) BOM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bom.png" group-title="EU- ES ZAPI",ES (ZAP) BOM
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138819
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES (ZAP) CALLE 13" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/calle13hd.png" group-title="EU- ES ZAPI",ES (ZAP) CALLE 13
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138820
+#EXTINF:-1 tvg-ID="canalestrellas.es" tvg-name="ES (ZAP) CANAL DE LAS ESTRELLAS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasestrellas.png" group-title="EU- ES ZAPI",ES (ZAP) CANAL DE LAS ESTRELLAS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138821
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES (ZAP) CANAL SUR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES ZAPI",ES (ZAP) CANAL SUR
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138822
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES (ZAP) CLAN TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES ZAPI",ES (ZAP) CLAN TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138823
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) CNBC" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/008cnbc.png" group-title="EU- ES ZAPI",ES (ZAP) CNBC
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138824
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) CNN INTER" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cnninternational.png" group-title="EU- ES ZAPI",ES (ZAP) CNN INTER
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138825
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES (ZAP) CUATRO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES ZAPI",ES (ZAP) CUATRO
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138827
+#EXTINF:-1 tvg-ID="dark.es" tvg-name="ES (ZAP) DARK" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/dark.png" group-title="EU- ES ZAPI",ES (ZAP) DARK
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138828
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) DAS ERSTE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/daserste.png" group-title="EU- ES ZAPI",ES (ZAP) DAS ERSTE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138829
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) DBIKE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bikechannel.png" group-title="EU- ES ZAPI",ES (ZAP) DBIKE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138830
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES (ZAP) DISCOVERY CHANNEL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/discoverychannelhd.png" group-title="EU- ES ZAPI",ES (ZAP) DISCOVERY CHANNEL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138832
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES (ZAP) DIVINITY" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/divinity.png" group-title="EU- ES ZAPI",ES (ZAP) DIVINITY
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138833
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES (ZAP) DKISS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Dkiss.png/revision/latest?cb=20160521194529" group-title="EU- ES ZAPI",ES (ZAP) DKISS TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138834
+#EXTINF:-1 tvg-ID="dmax.es" tvg-name="ES (ZAP) DMAX" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/dmaxhd.png" group-title="EU- ES ZAPI",ES (ZAP) DMAX
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138835
+#EXTINF:-1 tvg-ID="eltorotv.es" tvg-name="ES (ZAP) EL TORO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/eltorotv.png" group-title="EU- ES ZAPI",ES (ZAP) EL TORO
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138836
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES (ZAP) ENERGY" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/energy.png" group-title="EU- ES ZAPI",ES (ZAP) ENERGY
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138837
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) EnFamilia" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/TV-FAMILIA.png" group-title="EU- ES ZAPI",ES (ZAP) EnFamilia
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138838
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ESCAPATV" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="EU- ES ZAPI",ES (ZAP) ESCAPATV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138839
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES (ZAP) EUROSPORT 1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/eurosport1.png" group-title="EU- ES ZAPI",ES (ZAP) EUROSPORT 1
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138840
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES (ZAP) EUROSPORT 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/eurosport2.png" group-title="EU- ES ZAPI",ES (ZAP) EUROSPORT 2
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138841
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) EWTN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/EWTN-NP.png" group-title="EU- ES ZAPI",ES (ZAP) EWTN
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138842
+#EXTINF:-1 tvg-ID="canalextremadura.es" tvg-name="ES (ZAP) EXTREMADURA TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/extremadurafm.png" group-title="EU- ES ZAPI",ES (ZAP) EXTREMADURA TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138843
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) FDF" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES ZAPI",ES (ZAP) FDF
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138844
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="ES (ZAP) GOL TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.goltv.png" group-title="EU- ES ZAPI",ES (ZAP) GOL TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138845
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES (ZAP) HISTORIA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/HISTORIA-HD.jpg" group-title="EU- ES ZAPI",ES (ZAP) HISTORIA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138846
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES (ZAP) HOLLYWOOD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/hollywood.png" group-title="EU- ES ZAPI",ES (ZAP) HOLLYWOOD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138847
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES (ZAP) IBERALIA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/iberalia.png" group-title="EU- ES ZAPI",ES (ZAP) IBERALIA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138848
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) IBERALIA CAZA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/iberaliatv.png" group-title="EU- ES ZAPI",ES (ZAP) IBERALIA CAZA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138849
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) IBERALIA PESCA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/iberaliatv.png" group-title="EU- ES ZAPI",ES (ZAP) IBERALIA PESCA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138850
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES (ZAP) LA 1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES ZAPI",ES (ZAP) LA 1
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138851
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES (ZAP) LA 2" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la2.png" group-title="EU- ES ZAPI",ES (ZAP) LA 2
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138852
+#EXTINF:-1 tvg-ID="laotra.es" tvg-name="ES (ZAP) LA OTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXojjAzXbjKWHAvTNNyYO1RAADB03QtcLUg&s" group-title="EU- ES ZAPI",ES (ZAP) LA OTRA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138853
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES (ZAP) LA SEXTA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES ZAPI",ES (ZAP) LA SEXTA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138854
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) LIBERTADDIGITAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5pD-rixWfhNcm-_MOaEX5hMvPv9PqanKIWA&s" group-title="EU- ES ZAPI",ES (ZAP) LIBERTADDIGITAL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138855
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) LOLLY KIDS" tvg-logo="https://images.seeklogo.com/logo-png/51/2/sour-patch-kids-candy-logo-png_seeklogo-519815.png" group-title="EU- ES ZAPI",ES (ZAP) LOLLY KIDS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138856
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES (ZAP) MEGA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mega.png" group-title="EU- ES ZAPI",ES (ZAP) MEGA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138857
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) MOTO ADV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/automoto.png" group-title="EU- ES ZAPI",ES (ZAP) MOTO ADV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138858
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) MTV 00麓s" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tmtv.png" group-title="EU- ES ZAPI",ES (ZAP) MTV 00麓s
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138859
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) MTV 80麓s" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtv8hd.png" group-title="EU- ES ZAPI",ES (ZAP) MTV 80麓s
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138860
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES (ZAP) MTV ESPA脩A" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvespana.png" group-title="EU- ES ZAPI",ES (ZAP) MTV ESPA脩A
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138861
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) MTV HITS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.mtvhits.png" group-title="EU- ES ZAPI",ES (ZAP) MTV HITS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138862
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES (ZAP) NICKELODEON" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nickelodeons.png" group-title="EU- ES ZAPI",ES (ZAP) NICKELODEON
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138864
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="ES (ZAP) NICK JR" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nickjr.png" group-title="EU- ES ZAPI",ES (ZAP) NICK JR
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138863
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES (ZAP) NOVA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nova3d.png" group-title="EU- ES ZAPI",ES (ZAP) NOVA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138865
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="ES (ZAP) PARAMOUNT CHANNEL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/paramountchannelhd.png" group-title="EU- ES ZAPI",ES (ZAP) PARAMOUNT CHANNEL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138867
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) PARLAMENTO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/parlamento.png" group-title="EU- ES ZAPI",ES (ZAP) PARLAMENTO
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138868
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) RAI 1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/rai1.png" group-title="EU- ES ZAPI",ES (ZAP) RAI 1
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138869
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES (ZAP) REAL MADRID TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/realmadridtv.png" group-title="EU- ES ZAPI",ES (ZAP) REAL MADRID TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138870
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) RTP INTERNACIONAL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/rtpinternacional.png" group-title="EU- ES ZAPI",ES (ZAP) RTP INTERNACIONAL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138871
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) SAT1" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/sat1hd.png" group-title="EU- ES ZAPI",ES (ZAP) SAT1
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138872
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) Sevilla TV" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/SEVILLA-TV.jpg" group-title="EU- ES ZAPI",ES (ZAP) Sevilla TV
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138873
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) SKY NEWS INTL" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/skynewshd.png" group-title="EU- ES ZAPI",ES (ZAP) SKY NEWS INTL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138874
+#EXTINF:-1 tvg-ID="somos.es" tvg-name="ES (ZAP) SOMOS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/SOMOS-MISIONES-TV-ARG.jpg" group-title="EU- ES ZAPI",ES (ZAP) SOMOS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138875
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES (ZAP) SUNDANCE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/sundancehd.png" group-title="EU- ES ZAPI",ES (ZAP) SUNDANCE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138876
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) SURF CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTORtYi55XCdeESHUFsExC_B77nyIFMVWyheA&s" group-title="EU- ES ZAPI",ES (ZAP) SURF CHANNEL
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138877
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES (ZAP) SYFY" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/SYFY---HD.png" group-title="EU- ES ZAPI",ES (ZAP) SYFY
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138878
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TCM MODERNO" tvg-logo="https://images.seeklogo.com/logo-png/13/1/tcm-corporation-logo-png_seeklogo-136146.png" group-title="EU- ES ZAPI",ES (ZAP) TCM MODERNO
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138879
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TELEAGOST" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/LAGOS-TV.png" group-title="EU- ES ZAPI",ES (ZAP) TELEAGOST
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138882
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES (ZAP) TELECINCO" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES ZAPI",ES (ZAP) TELECINCO
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138883
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES (ZAP) TELEDEPORTE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/teledeporte.png" group-title="EU- ES ZAPI",ES (ZAP) TELEDEPORTE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138884
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TELE MONOVAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_de_la_cha%C3%AEne_TV_Monaco.jpg" group-title="EU- ES ZAPI",ES (ZAP) TELE MONOVAR
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138880
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TELENOVELAS" tvg-logo="https://play-lh.googleusercontent.com/sO4IDQjiP1lgi4Nzp6OVZt3uzftON0Fc50MAIap0dgGp5mB0QIbA7UcoYEFdlwV2FA=w600-h300-pc0xffffff-pd" group-title="EU- ES ZAPI",ES (ZAP) TELENOVELAS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138885
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TELENOVELDA" tvg-logo="https://play-lh.googleusercontent.com/sO4IDQjiP1lgi4Nzp6OVZt3uzftON0Fc50MAIap0dgGp5mB0QIbA7UcoYEFdlwV2FA=w600-h300-pc0xffffff-pd" group-title="EU- ES ZAPI",ES (ZAP) TELENOVELDA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138886
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TELE SAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDRuiRlf5YnFuwF8JLcj65dgevZAHpMxtvQ&s" group-title="EU- ES ZAPI",ES (ZAP) TELE SAX
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138881
+#EXTINF:-1 tvg-ID="ten.es" tvg-name="ES (ZAP) TEN" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aus.Ten.png" group-title="EU- ES ZAPI",ES (ZAP) TEN
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138887
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TENDENCIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMI7sDfTCMGOzYPfEukA1u1prJwFkToMi-g&s" group-title="EU- ES ZAPI",ES (ZAP) TENDENCIAS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138888
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TLNOVELAS" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.Univision_tlnovelas.png" group-title="EU- ES ZAPI",ES (ZAP) TLNOVELAS
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138889
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES (ZAP) TNT" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.tnt.png" group-title="EU- ES ZAPI",ES (ZAP) TNT
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138890
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TOROLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC57e2lcSLxD7eL9fn15yZ8GQMReHTTXfrEA&s" group-title="EU- ES ZAPI",ES (ZAP) TOROLE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138891
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TV3" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/TV3.png" group-title="EU- ES ZAPI",ES (ZAP) TV3
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138895
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TV5 MONDE" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tv5monde.png" group-title="EU- ES ZAPI",ES (ZAP) TV5 MONDE
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138896
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TV POLONIA" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvpolonia.png" group-title="EU- ES ZAPI",ES (ZAP) TV POLONIA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138892
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TV RECORD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvrecord.png" group-title="EU- ES ZAPI",ES (ZAP) TV RECORD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138893
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) TV RUMANIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Romania_TV_2011.svg/revision/latest/scale-to-width-down/300?cb=20230208043901" group-title="EU- ES ZAPI",ES (ZAP) TV RUMANIA
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138894
+#EXTINF:-1 tvg-ID="xtrm.es" tvg-name="ES (ZAP) XTRM" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/xtrm.png" group-title="EU- ES ZAPI",ES (ZAP) XTRM
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138897
+#EXTINF:-1 tvg-ID="" tvg-name="ES (ZAP) ZDF" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/ZDF-TV.png" group-title="EU- ES ZAPI",ES (ZAP) ZDF
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1138898
