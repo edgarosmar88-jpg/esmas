@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Portada M+ (ES)" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/portada.png" group-title="EU- ES  TDT",Portada M+ (ES)
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/1867376
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1.png" group-title="EU- ES  TDT",ES- La 1 SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533508
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- La 1 HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65974
+#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- LA 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- LA 1 FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50321
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la2.png" group-title="EU- ES  TDT",ES- La 2 SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533509
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- La 2 HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65973
+#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- LA 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- LA 2 FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50319
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3.png" group-title="EU- ES  TDT",ES- Antena 3 SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533511
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65978
+#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50373
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatro.png" group-title="EU- ES  TDT",ES- Cuatro SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533510
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65975
+#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50342
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES  TDT",ES- Telecinco SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533512
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65971
+#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50267
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasexta.png" group-title="EU- ES  TDT",ES- La Sexta SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533513
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- La Sexta HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65972
+#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- LA Sexta FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- LA Sexta FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50318
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533514
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65925
+#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50375
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533516
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65969
+#EXTINF:-1 tvg-ID="Clan" tvg-name="ES- Clan Tve FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/clantve.png" group-title="EU- ES  TDT",ES- Clan Tve FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50349
+#EXTINF:-1 tvg-ID="Factor铆a de Ficci贸n" tvg-name="ES- FDF SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533523
+#EXTINF:-1 tvg-ID="Factor铆a de Ficci贸n" tvg-name="ES- FDF HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65960
+#EXTINF:-1 tvg-ID="Factor铆a de Ficci贸n" tvg-name="ES- FDF FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/fdf.png" group-title="EU- ES  TDT",ES- FDF FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50331
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinity SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinity SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533522
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinity HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinity HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65962
+#EXTINF:-1 tvg-ID="Divinity" tvg-name="ES- Divinty FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="EU- ES  TDT",ES- Divinty FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50336
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533521
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65961
+#EXTINF:-1 tvg-ID="Energy" tvg-name="ES- Energy FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="EU- ES  TDT",ES- Energy FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50335
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533518
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65957
+#EXTINF:-1 tvg-ID="Nova" tvg-name="ES- Nova FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="EU- ES  TDT",ES- Nova FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50276
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533519
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65958
+#EXTINF:-1 tvg-ID="Neox" tvg-name="ES- Neox FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="EU- ES  TDT",ES- Neox FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50281
+#EXTINF:-1 tvg-ID="Canal Sur Andaluc铆a" tvg-name="ES- Canal Sur A SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533517
+#EXTINF:-1 tvg-ID="Canal Sur Andaluc铆a" tvg-name="ES- Canal Sur A HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65976
+#EXTINF:-1 tvg-ID="Canal Sur Andaluc铆a" tvg-name="ES- Canal Sur A FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/canalsura.png" group-title="EU- ES  TDT",ES- Canal Sur A FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50352
+#EXTINF:-1 tvg-ID="Arag贸n TV" tvg-name="ES- Aragon TV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533515
+#EXTINF:-1 tvg-ID="Arag贸n TV" tvg-name="ES- Aragon TV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65977
+#EXTINF:-1 tvg-ID="Arag贸n TV" tvg-name="ES- Aragon TV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/aragontv.png" group-title="EU- ES  TDT",ES- Aragon TV FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50371
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES- Mezzo SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533520
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="ES- Mezzo HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65928
+#EXTINF:-1 tvg-ID="mezzo.es" tvg-name="ES- Mezzo FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mezzohd.png" group-title="EU- ES  TDT",ES- Mezzo FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50287
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES- MTV SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvespana.png" group-title="EU- ES  TDT",ES- MTV SD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/533524
+#EXTINF:-1 tvg-ID="MTV Espa帽a" tvg-name="ES- MTV HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvespana.png" group-title="EU- ES  TDT",ES- MTV HD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/65927
+#EXTINF:-1 tvg-ID="MTV Espa帽a" tvg-name="ES- MTV FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/MTV-HD.png" group-title="EU- ES  TDT",ES- MTV FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50286
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES- Fox Life FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/laz.FoxLife.png" group-title="EU- ES  TDT",ES- Fox Life FHD
+http://main.portaltv.net:80/28395efbd4b7/en1ohcd2ky/50328
